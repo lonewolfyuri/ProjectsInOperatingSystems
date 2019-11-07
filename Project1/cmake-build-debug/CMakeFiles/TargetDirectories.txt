@@ -1,0 +1,3 @@
+/Users/ggabr/CLionProjects/ICS143B/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ggabr/CLionProjects/ICS143B/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ggabr/CLionProjects/ICS143B/Project1/cmake-build-debug/CMakeFiles/Project1.dir

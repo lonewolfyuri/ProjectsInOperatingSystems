@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ggabr/CLionProjects/ICS143B/Project1/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+manager.hpp
+/Users/ggabr/CLionProjects/ICS143B/Project1/manager.hpp
+
+/Users/ggabr/CLionProjects/ICS143B/Project1/manager.hpp
+deque
+-
+string
+-
+iostream
+-
+
